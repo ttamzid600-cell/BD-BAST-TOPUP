@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "bd bast toppu";
+var website_name = "BD bast toppu";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
